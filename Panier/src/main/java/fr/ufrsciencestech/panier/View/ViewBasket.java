@@ -5,9 +5,7 @@ import fr.ufrsciencestech.panier.Model.Basket;
 import fr.ufrsciencestech.panier.Model.fruit.Fruit;
 import java.beans.PropertyChangeEvent;
 
-public class ViewBasket extends javax.swing.JFrame implements ViewG {
-
-    
+public class ViewBasket extends javax.swing.JFrame implements ViewG {    
     public ViewBasket() {
         initComponents();
         FillComboBoxPlus();
